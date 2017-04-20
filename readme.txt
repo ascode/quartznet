@@ -35,3 +35,7 @@ The version 3.0 is a work in progress and things might still change a bit.
 For API documentation, please refer to Quartz.NET site: 
 
    http://apidoc.quartz-scheduler.net/
+
+
+refer to:
+https://www.quartz-scheduler.net/documentation/quartz-2.x/tutorial/job-stores.html
